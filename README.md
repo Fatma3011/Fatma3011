@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate Devops developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **an ecommerce project**
+- 🔭 I’m currently working on **an ecommerce project** as a half time fullstack developer and a half time web performance developer
 
 - 🌱 I’m currently learning **Kubernetes**
 
