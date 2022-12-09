@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
-<h3 align="center">A passionate Devops & Fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate Devops developer from Tunisia</h3>
 
 - 🔭 I’m currently working on **an ecommerce project**
 
