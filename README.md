@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate Devops developer from Tunisia</h3>
-<img align="right" width="400" alt="coding" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif"/>
+<img align="right" width="400" alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 - 🔭 I’m currently working on **an ecommerce project** as a half time fullstack developer and a half time web performance developer
 
 - 🌱 I’m currently learning **Kubernetes**
