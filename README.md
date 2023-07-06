@@ -3,7 +3,7 @@
 <img align="right" width="400" alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 - 🔭 I’m currently working on **an ecommerce project** as a half time fullstack developer and a half time web performance developer
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Next13 with Typescript **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fatma3011?tab=repositories](https://github.com/Fatma3011?tab=repositories)
 
